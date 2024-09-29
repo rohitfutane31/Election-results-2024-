@@ -1,6 +1,6 @@
 # Election-results-2024-
 
-Indian Election AI Usage
+Indian Election Usage 2024
 The 2024 Indian general elections witnessed the extensive use of by all major political parties. Here are some key findings and insights:
 
 generated content: Political parties spent an estimated $50 million on authorized AI-generated content, including deepfakes, to target specific constituencies. This technology allowed parties to create personalized messages, videos, and audio clips to influence voters.
